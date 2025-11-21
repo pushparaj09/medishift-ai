@@ -1,0 +1,7 @@
+{
+  "name": "MediShift AI",
+  "description": "Enterprise-grade hospital staff scheduling platform featuring AI-driven forecasting, real-time resource tracking, and Java Spring Boot integration capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
